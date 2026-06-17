@@ -14,7 +14,7 @@
  [ Flutter App ] <-- ( Enriched BLE Stream )-[ GatewayDevice/Receiver ]
                                                         │
                                              (Data Enrichment / Heartbeat)
-
+```
 ## Data Engineering Highlights
 
 **Multi-Protocol Pipeline:**
