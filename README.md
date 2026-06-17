@@ -5,7 +5,7 @@
 ## Data Architecture & Pipeline
 
 ## Edge Data Pipeline & Transformations
-
+```text
  [ Assistive Cane Sensors ] - ( Local State Reduction ) --> [ LoRa Transmitter ]
                                                                 │
                                                 (Compressed Payload)
